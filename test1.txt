@@ -1,10 +1,1 @@
- Volume in drive D is New Volume
- Volume Serial Number is 7E84-4824
-
- Directory of D:\Ajeet\Personal\Lockdown\Java&Other\Day6_Git\MyProject
-
-04/26/2020  06:11 PM    <DIR>          .
-04/26/2020  06:11 PM    <DIR>          ..
-04/26/2020  06:11 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  81,829,470,208 bytes free
+This is my git project
